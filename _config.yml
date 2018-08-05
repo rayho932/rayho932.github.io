@@ -12,16 +12,12 @@ color:
 # Footer settings
 footer: RAYCHAIN.CC
 
-# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
+# Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, stack-overflow, bitbucket, etc.)
 social:
   - title: twitter
     url: 
   - title: facebook
     url:
-  - title: stack-overflow
-    url: 
-  - title: bitbucket
-    url: 
   - title: github
     url: 
 
